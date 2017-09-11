@@ -1,2 +1,3 @@
 # hello-world
-Practice and test Git for Divergence Data Science Immersive
+This is jukemove and I make moves in github
+buhtig ni sevom ekam I dna evomekuj si sihT
